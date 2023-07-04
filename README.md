@@ -1,6 +1,6 @@
 # Baekjoon
-![img](https://cdn.imweb.me/thumbnail/20220817/5ad4d757dac2d.png)
-:white_check_mark:**백준 알고리즘 문제풀이 리포지토리 입니다!**:white_check_mark:
+![img](https://cdn.imweb.me/thumbnail/20220817/5ad4d757dac2d.png)  
+:white_check_mark:**백준 알고리즘 문제풀이 리포지토리 입니다!**:white_check_mark:  
 문제는 해당 날짜의 폴더의 README 파일에서 확인할 수 있습니다.
 - Organization 들어오시면 username으로 전용 branch 하나 만들어드릴 테니 거기에 코드 올리시면 됩니다.
 - 사용 언어는 **JavaScript** 또는 **Python**입니다.
