@@ -1,0 +1,18 @@
+2023/07/07
+# 오늘의 문제입니다!
+- 사용 언어는 **JavaScript** 또는 **Python**입니다.
+- 문제를 해결하고 자신의 코드를 '이름_문제이름'로 저장해 PR 해보세요!
+
+:tools: **아직 난이도 조정 중 입니다.**
+- 만약 난이도를 더 높여도 될 것 같다 생각하시면 :arrow_up:
+- 적당하면 :thumbsup:
+- 너무 어려운것 같다 생각하시면 :arrow_down: 을 눌러주세요.
+
+팰린드롬수
+https://www.acmicpc.net/problem/1259
+
+설탕배달
+https://www.acmicpc.net/problem/2839
+
+스택
+https://www.acmicpc.net/problem/10828
